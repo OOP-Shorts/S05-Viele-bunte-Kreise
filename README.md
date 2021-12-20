@@ -1,4 +1,4 @@
-In dieser Aufgabe beschäftigst du dich mit dem Einsatz von Array, in denen du mehrere Objekte gleichen Typs abspeichern kannst. So musst du bei vielen Objekten nicht für jedes eine eigene Variable verwenden. Über diesen Ansatz lassen sich in der _Graphics App_ dann auch Animationen mit vielen einzelnen Elementen realisieren.
+In dieser Aufgabe beschäftigst du dich mit dem Einsatz von Array, in denen du mehrere Objekte gleichen Typs abspeichern kannst. So musst du bei vielen Objekten nicht für jedes eine eigene Variable verwenden. Über diesen Ansatz lassen sich in der _Graphics App_ dann auch Animationen mit vielen einzelnen Elementen realisieren. Zum einfachen Befüllen des Arrays kannst du hier die `for`-Schleife verwenden. 
 
 ## Relevante Kursinhalte
 
